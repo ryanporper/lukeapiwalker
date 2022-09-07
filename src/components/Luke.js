@@ -58,6 +58,7 @@ const LukeApi = (e) => {
               <p>Mass: {result.mass} </p>
               <p>Hair Color: {result.hair_color}</p>
               <p>Skin Color: {result.skin_color}</p>
+              <p>Birth Year: {result.birth_year}</p>
             </div>
           ) : (
             ""
